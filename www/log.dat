@@ -1,0 +1,30 @@
+
+New record:
+2019-12-14 23:44:57
+{"firstname":"Ann","lastname":"Starshova","age":"19","address":"Admirala Makarova street","phone_number":"(090)9909090","email":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-14 23:54:41
+{"firstname":"s","lastname":"s","age":"19","address":"s","phone_number":"(222)2222222","email":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-14 23:55:40
+{"firstname":"asd","lastname":"das","age":"19","address":"s","phone_number":"(099)0672503","email":"starshovaanna@ukr.net"}
+success
+
+
+New record:
+2019-12-14 23:56:31
+{"firstname":"sad","lastname":"sad","age":"asd","address":"s","phone_number":"(099)0672503","email":"starshovaanna@ukr.net"}
+fail
+
+
+New record:
+2019-12-14 23:58:49
+{"firstname":"Ann","lastname":"Starshova","age":"19","address":"Admirala Makarova street","phone_number":"(099)0672503","email":"starshovaanna@ukr.net"}
+success
+
